@@ -20,7 +20,7 @@ You can copy this script in any directorys and give chmod -x
 
 * **Mir hamed hosseini**
 
-See also the list of [My Github](https://github.com/hossbit) .
+See also other projects [My Github](https://github.com/hossbit) .
 
 ## License
 
