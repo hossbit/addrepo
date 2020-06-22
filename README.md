@@ -25,4 +25,4 @@ See also other projects [My Github](https://github.com/hossbit) .
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the GPL License
