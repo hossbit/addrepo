@@ -14,7 +14,8 @@ If you want add all SUSE 15 sp1 repository yout can use this script.
 
 ### Installing
 
-You can copy this script in any directorys and give chmod -x 
+You can copy this script in any directorys.
+> chmod -x xxx.sh
 
 ## Authors
 
